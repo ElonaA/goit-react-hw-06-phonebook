@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ElonaA/goit-react-hw-06-phonebook/static/css/main.670d7f89.chunk.css",
+    "main.js": "/ElonaA/goit-react-hw-06-phonebook/static/js/main.4ccd5359.chunk.js",
+    "main.js.map": "/ElonaA/goit-react-hw-06-phonebook/static/js/main.4ccd5359.chunk.js.map",
+    "runtime-main.js": "/ElonaA/goit-react-hw-06-phonebook/static/js/runtime-main.1ac05862.js",
+    "runtime-main.js.map": "/ElonaA/goit-react-hw-06-phonebook/static/js/runtime-main.1ac05862.js.map",
+    "static/js/2.6f245c07.chunk.js": "/ElonaA/goit-react-hw-06-phonebook/static/js/2.6f245c07.chunk.js",
+    "static/js/2.6f245c07.chunk.js.map": "/ElonaA/goit-react-hw-06-phonebook/static/js/2.6f245c07.chunk.js.map",
+    "index.html": "/ElonaA/goit-react-hw-06-phonebook/index.html",
+    "static/css/main.670d7f89.chunk.css.map": "/ElonaA/goit-react-hw-06-phonebook/static/css/main.670d7f89.chunk.css.map",
+    "static/js/2.6f245c07.chunk.js.LICENSE.txt": "/ElonaA/goit-react-hw-06-phonebook/static/js/2.6f245c07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac05862.js",
+    "static/js/2.6f245c07.chunk.js",
+    "static/css/main.670d7f89.chunk.css",
+    "static/js/main.4ccd5359.chunk.js"
+  ]
+}
