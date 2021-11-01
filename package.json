@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-03-feedback",
+  "name": "goit-react-hw-06-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ElonaA.github.io/goit-react-hw-04-hooks-phonebook",
+  "homepage": "https://github.com/ElonaA/goit-react-hw-06-phonebook",
   "dependencies": {
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
@@ -25,7 +25,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/ElonaA/goit-react-hw-04-hooks-phonebook",
+    "deploy": "gh-pages -d build -r https://github.com/ElonaA/goit-react-hw-06-phonebook",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
